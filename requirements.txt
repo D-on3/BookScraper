@@ -1,0 +1,11 @@
+beautifulsoup4==4.9.3
+lxml==4.9.2
+requests==2.27.1
+pathlib==1.0.1
+grequests==0.6.0
+unicode==2.9
+unidecode==1.2.0
+tk==0.1.0
+Pillow==6.2.2
+coverage==5.5
+jsonpath-ng==1.5.3

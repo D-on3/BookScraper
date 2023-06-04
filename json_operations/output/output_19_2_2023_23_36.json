@@ -1,0 +1,31 @@
+{
+    "books": [
+        {
+            "rating": 3, 
+            "description": "It's hard to imagine a world without A Light in the Attic. This now-classic collection of poetry and drawings from Shel Silverstein celebrates its 20th anniversary with this special edition. Silverstein's humorous and creative verse can amuse the dowdiest of readers. Lemon-faced adults and fidgety kids sit still and read these rhythmic words and laugh and smile and love th It's hard to imagine a world without A Light in the Attic. This now-classic collection of poetry and drawings from Shel Silverstein celebrates its 20th anniversary with this special edition. Silverstein's humorous and creative verse can amuse the dowdiest of readers. Lemon-faced adults and fidgety kids sit still and read these rhythmic words and laugh and smile and love that Silverstein. Need proof of his genius? RockabyeRockabye baby, in the treetopDon't you know a treetopIs no safe place to rock?And who put you up there,And your cradle, too?Baby, I think someone down here'sGot it in for you. Shel, you never sounded so good. ...more", 
+            "title": "A Light in the Attic", 
+            "price": 51.77, 
+            "image_url": "https://books.toscrape.com/media/cache/fe/72/fe72f0532301ec28892ae79a629a293c.jpg", 
+            "availability": 22, 
+            "id_upc": "a897fe39b1053632"
+        }, 
+        {
+            "rating": 1, 
+            "description": "Dans une France assez proche de la ntre, un homme sengage dans la carrire universitaire. Peu motiv par lenseignement, il sattend  une vie ennuyeuse mais calme, protge des grands drames historiques. Cependant les forces en jeu dans le pays ont fissur le systme politique jusqu provoquer son effondrement. Cette implosion sans soubresauts, sans vraie rvolution, s Dans une France assez proche de la ntre, un homme sengage dans la carrire universitaire. Peu motiv par lenseignement, il sattend  une vie ennuyeuse mais calme, protge des grands drames historiques. Cependant les forces en jeu dans le pays ont fissur le systme politique jusqu provoquer son effondrement. Cette implosion sans soubresauts, sans vraie rvolution, se dveloppe comme un mauvais rve.Le talent de lauteur, sa force visionnaire nous entranent sur un terrain ambigu et glissant ; son regard sur notre civilisation vieillissante fait coexister dans ce roman les intuitions potiques, les effets comiques, une mlancolie fataliste.Ce livre est une saisissante fable politique et morale. ...more", 
+            "title": "Soumission", 
+            "price": 50.1, 
+            "image_url": "https://books.toscrape.com/media/cache/ee/cf/eecfe998905e455df12064dba399c075.jpg", 
+            "availability": 20, 
+            "id_upc": "6957f44c3847a760"
+        }, 
+        {
+            "rating": 1, 
+            "description": "\"Erotic and absorbing...Written with starling power.\"--\"The New York Times Book Review \" Nan King, an oyster girl, is captivated by the music hall phenomenon Kitty Butler, a male impersonator extraordinaire treading the boards in Canterbury. Through a friend at the box office, Nan manages to visit all her shows and finally meet her heroine. Soon after, she becomes Kitty's \"Erotic and absorbing...Written with starling power.\"--\"The New York Times Book Review \" Nan King, an oyster girl, is captivated by the music hall phenomenon Kitty Butler, a male impersonator extraordinaire treading the boards in Canterbury. Through a friend at the box office, Nan manages to visit all her shows and finally meet her heroine. Soon after, she becomes Kitty's dresser and the two head for the bright lights of Leicester Square where they begin a glittering career as music-hall stars in an all-singing and dancing double act. At the same time, behind closed doors, they admit their attraction to each other and their affair begins. ...more", 
+            "title": "Tipping the Velvet", 
+            "price": 53.74, 
+            "image_url": "https://books.toscrape.com/media/cache/08/e9/08e94f3731d7d6b760dfbfbc02ca5c62.jpg", 
+            "availability": 20, 
+            "id_upc": "90fa61229261140a"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "books": [
+        {
+            "rating": 5, 
+            "description": "Punk's raw power rejuvenated rock, but by the summer of 1977 the movement had become a parody of itself. RIP IT UP AND START AGAIN is a celebration of what happened next.Post-punk bands like PiL, Joy Division, Talking Heads, The Fall and The Human League dedicated themselves to fulfilling punk's unfinished musical revolution. The post-punk groups were fervent modernists; w Punk's raw power rejuvenated rock, but by the summer of 1977 the movement had become a parody of itself. RIP IT UP AND START AGAIN is a celebration of what happened next.Post-punk bands like PiL, Joy Division, Talking Heads, The Fall and The Human League dedicated themselves to fulfilling punk's unfinished musical revolution. The post-punk groups were fervent modernists; whether experimenting with electronics and machine rhythm or adapting ideas from dub reggae and disco, they were totally confident they could invent a whole new future for music. ...more", 
+            "title": "Rip it Up and Start Again", 
+            "price": 35.02, 
+            "image_url": "https://books.toscrape.com/media/cache/81/7f/817f5089c0e6e62738dce2931e7323d3.jpg", 
+            "availability": 19, 
+            "id_upc": "a34ba96d4081e6a4"
+        }, 
+        {
+            "rating": 5, 
+            "description": "Aaron Ledbetters future had been planned out for him since before he was born. Each year, the Ledbetter family vacation on Tybee Island gave Aaron a chance to briefly free himself from his familys expectations. When he meets Jonas Lucky Luckett, a caricature artist in town with the traveling carnival, he must choose between the life thats been mapped out for him, and Aaron Ledbetters future had been planned out for him since before he was born. Each year, the Ledbetter family vacation on Tybee Island gave Aaron a chance to briefly free himself from his familys expectations. When he meets Jonas Lucky Luckett, a caricature artist in town with the traveling carnival, he must choose between the life thats been mapped out for him, and the chance at true love. ...more", 
+            "title": "Set Me Free", 
+            "price": 17.46, 
+            "image_url": "https://books.toscrape.com/media/cache/b8/e9/b8e91bd2fc74c3954118999238abb4b8.jpg", 
+            "availability": 19, 
+            "id_upc": "ce6396b0f23f6ecc"
+        }
+    ]
+}
